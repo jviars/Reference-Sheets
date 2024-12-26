@@ -2,40 +2,11 @@
 
 A curated collection of reference sheets covering Computer Science, Information Technology, Mathematics, Statistics, Psychology, and related fields. This repository was initially created to help me, but I hope it can help others too. 
 
+# Please feel free to contribute. Add any field of study that you like but remember that the goal is to provide quick access to resources for interested people. More info on contributing below. 
+
 ## Overview
 
 This repository contains cheat sheets and reference guides organized by field and subject matter. Each document is designed to provide quick access to essential concepts, syntax, formulas, and best practices.
-
-## Repository Structure for the Initial Push
-
-```
-├── Computer Science/
-│   ├── Algorithms/
-│   ├── Data Structures/
-│   ├── Programming Languages/
-│   │   ├── Java.md
-│   │   ├── Python.md
-│   │   └── ...
-│   └── ...
-├── Information Technology/
-│   ├── Cybersecurity.md
-│   ├── Network Engineering.md
-│   └── ...
-├── Mathematics/
-│   ├── Discrete Mathematics.md
-│   ├── Linear Algebra/
-│   ├── Calculus/
-│   └── ...
-├── Psychology/
-│   ├── Cognitive Psychology/
-│   ├── Research Methods/
-│   └── ...
-└── Statistics/
-    ├── Descriptive Statistics/
-    ├── Inferential Statistics/
-    ├── R Programming.md
-    └── ...
-```
 
 ## Available Reference Sheets
 
