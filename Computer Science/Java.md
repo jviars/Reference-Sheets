@@ -1,4 +1,4 @@
-# Comprehensive Java Cheat Sheet
+# Java Cheat Sheet
 
 ## Basic Syntax and Data Types
 
