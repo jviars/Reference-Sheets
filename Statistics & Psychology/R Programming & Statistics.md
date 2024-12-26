@@ -1,4 +1,4 @@
-# Comprehensive Statistics and R Cheat Sheet
+# Statistics and R Cheat Sheet
 
 ## Basic R Operations
 
