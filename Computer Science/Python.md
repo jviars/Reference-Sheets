@@ -1,4 +1,4 @@
-# Comprehensive Python Cheat Sheet
+# Python Cheat Sheet
 
 ## Basic Syntax and Data Types
 
