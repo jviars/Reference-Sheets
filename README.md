@@ -1,10 +1,10 @@
-# Comprehensive Technical Reference Sheets
+# Technical Reference Sheets
 
-A curated collection of detailed reference sheets covering Computer Science, Information Technology, Mathematics, Statistics, Psychology, and related fields. This repository was initially to help me, but I'm hoping that it can help others too. 
+A curated collection of reference sheets covering Computer Science, Information Technology, Mathematics, Statistics, Psychology, and related fields. This repository was initially created to help me, but I hope it can help others too. 
 
 ## Overview
 
-This repository contains comprehensive cheat sheets and reference guides organized by field and subject matter. Each document is designed to provide quick access to essential concepts, syntax, formulas, and best practices.
+This repository contains cheat sheets and reference guides organized by field and subject matter. Each document is designed to provide quick access to essential concepts, syntax, formulas, and best practices.
 
 ## Repository Structure for the Initial Push
 
