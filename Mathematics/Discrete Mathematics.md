@@ -1,4 +1,4 @@
-# Comprehensive Discrete Mathematics Cheat Sheet
+# Discrete Mathematics Cheat Sheet
 
 ## Set Theory
 
