@@ -116,10 +116,10 @@ To work with these reference sheets locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/jviars/reference.git
+git clone https://github.com/jviars/Reference-Sheets.git
 
 # Navigate to the repository
-cd reference
+cd Reference-Sheets
 
 # Create a new branch for your changes
 git checkout -b your-feature-branch
