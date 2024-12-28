@@ -2,7 +2,7 @@
 
 A curated collection of reference sheets covering Computer Science, Information Technology, Mathematics, Statistics, Psychology, and related fields. This repository was initially created to help me, but I hope it can help others too. 
 
-# Please feel free to contribute. Add any field of study that you like but remember that the goal is to provide quick access to resources for interested people. More info on contributing below. 
+## Please feel free to contribute. Add any field of study that you like but remember that the goal is to provide quick access to resources for interested people. More info on contributing below. 
 
 ## Overview
 
