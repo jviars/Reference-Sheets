@@ -1,4 +1,4 @@
-# Comprehensive Cloud Computing Reference Sheet
+# Cloud Computing Reference Sheet
 
 ## Cloud Service Models
 
